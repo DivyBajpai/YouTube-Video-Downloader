@@ -1,3 +1,10 @@
+pip install streamlit-lottie
+pip show streamlit-lottie
+streamlit-lottie
+
+
+
+
 import os
 import subprocess
 import time
